@@ -1,8 +1,8 @@
-h1{
-    text-align: center;
-    color: rgb(65, 19, 65);
-}
-img{
-    display: block;
-    margin: auto;
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+     background-image: url('assets/bg-10.jpg');
+     background-size: 100% 100%;
+     background-attachment: fixed;
 }
